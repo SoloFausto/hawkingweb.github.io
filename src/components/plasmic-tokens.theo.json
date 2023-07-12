@@ -1,6 +1,26 @@
 {
   "props": [
     {
+      "name": "alt-white",
+      "type": "color",
+      "value": "#EFEFEF",
+      "category": "color",
+      "meta": {
+        "projectId": "mTawmMctuzdStwJ4K4xuHv",
+        "id": "rOZvTpahu"
+      }
+    },
+    {
+      "name": "black",
+      "type": "color",
+      "value": "#212020",
+      "category": "color",
+      "meta": {
+        "projectId": "mTawmMctuzdStwJ4K4xuHv",
+        "id": "3uxlGm60Q"
+      }
+    },
+    {
       "name": "gold",
       "type": "color",
       "value": "#E5AA43",
@@ -23,7 +43,7 @@
     {
       "name": "white",
       "type": "color",
-      "value": "#FFFFFF",
+      "value": "#E5DEDE",
       "category": "color",
       "meta": {
         "projectId": "mTawmMctuzdStwJ4K4xuHv",

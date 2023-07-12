@@ -1,12 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600&family=Merriweather%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600&family=Roboto%3Aital%2Cwght%400%2C400%3B0%2C500%3B1%2C400%3B1%2C500&display=swap");
 
 .plasmic_tokens {
-  --token-pL8y_AwGMX1d: #ffffff;
+  --token-pL8y_AwGMX1d: #e5dede;
   --plasmic-token-white: var(--token-pL8y_AwGMX1d);
   --token-Dx69yKCplk2F: #e5aa43;
   --plasmic-token-gold: var(--token-Dx69yKCplk2F);
   --token-f4dLIsvebHiI: 1px;
   --plasmic-token-padd-menu: var(--token-f4dLIsvebHiI);
+  --token-3uxlGm60Q: #212020;
+  --plasmic-token-black: var(--token-3uxlGm60Q);
+  --token-rOZvTpahu: #efefef;
+  --plasmic-token-alt-white: var(--token-rOZvTpahu);
 }
 
 .plasmic_tokens {
